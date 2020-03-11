@@ -5,5 +5,7 @@
 - [Chilean Political Science Impact Ranking](http://users.ox.ac.uk/~shil5311/ranking/)
 - [COVID-19 Outbreack in South America](https://bgonzalezbustamante.github.io/COVID-19-South-America/)
 
-Email: bastian.gonzalezbustamante@politics.ox.ac.uk
+## Contact
+
+Email: bastian.gonzalezbustamante@politics.ox.ac.uk \
 Mailing address: St Hilda's College, Cowley Place, Oxford OX4 1DY
