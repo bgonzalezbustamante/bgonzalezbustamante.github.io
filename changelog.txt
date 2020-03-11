@@ -1,0 +1,8 @@
+# Changelog
+All notable changes to "Bastián González-Bustamante GitHub Page" will be documented in this file.
+
+## [Released]
+
+## [1.0.0] - 2020-03-11
+### Added
+- Upload GitHub Page.
