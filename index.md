@@ -7,5 +7,5 @@
 
 ## Contact
 
-Email: bastian.gonzalezbustamante@politics.ox.ac.uk \
+Email: [bastian.gonzalezbustamante@politics.ox.ac.uk](mailto:bastian.gonzalezbustamante@politics.ox.ac.uk) <br />
 Mailing address: St Hilda's College, Cowley Place, Oxford OX4 1DY
