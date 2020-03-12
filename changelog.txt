@@ -3,6 +3,10 @@ All notable changes to "Bastián González-Bustamante GitHub Page" will be docum
 
 ## [Released]
 
+## [1.1.0] - 2020-03-12
+### Added
+- Shields.io badges in SVG.
+
 ## [1.0.0] - 2020-03-11
 ### Added
 - Upload GitHub Page.
