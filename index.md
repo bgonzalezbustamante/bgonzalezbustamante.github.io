@@ -10,7 +10,7 @@ I am a Probationer Research Student (PRS) in the DPhil in Politics programme in 
 - [COVID-19 Outbreack in South America](https://bgonzalezbustamante.github.io/COVID-19-South-America/)
 - [My ongoing projects on OSF](https://osf.io/n62dh/)
 
-### Contact
+## Contact
 
 Email: [bastian.gonzalezbustamante@politics.ox.ac.uk](mailto:bastian.gonzalezbustamante@politics.ox.ac.uk) <br />
 Mailing address: St Hilda's College, Cowley Place, Oxford OX4 1DY
