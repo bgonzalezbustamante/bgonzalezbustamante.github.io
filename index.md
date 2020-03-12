@@ -1,3 +1,5 @@
+## About Me
+
 I am a Probationer Research Student (PRS) in the DPhil in Politics programme in the [Department of Politics and International Relations](https://www.politics.ox.ac.uk/) and [St Hilda’s College](https://www.sthildas.ox.ac.uk/) at the [University of Oxford](http://www.ox.ac.uk/), United Kingdom. Furthermore, I am an Instructor in the Department of Public Administration and Policy at the Faculty of Economics and Management at the Universidad de Santiago, where I have been working since 2014.
 
 ## Perhaps you were looking for one of these?
@@ -12,3 +14,5 @@ I am a Probationer Research Student (PRS) in the DPhil in Politics programme in 
 
 Email: [bastian.gonzalezbustamante@politics.ox.ac.uk](mailto:bastian.gonzalezbustamante@politics.ox.ac.uk) <br />
 Mailing address: St Hilda's College, Cowley Place, Oxford OX4 1DY
+
+[![version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/bgonzalezbustamante/bgonzalezbustamante.github.io/blob/master/changelog.txt) [![lastrelease](https://img.shields.io/badge/latest%20release-March%202020-orange.svg)](https://bgonzalezbustamante.github.io/) [![nextrelease](https://img.shields.io/badge/next%20release-TBC-red.svg)](https://github.com/bgonzalezbustamante/bgonzalezbustamante.github.io/blob/master/changelog.txt) [![commits](https://img.shields.io/badge/commits-0-yellow.svg)](https://github.com/bgonzalezbustamante/bgonzalezbustamante.github.io/blob/master/changelog.txt) [![orcid](https://img.shields.io/badge/ORCID%20iD-0000--0003--1510--6820-brightgreen.svg)](http://orcid.org/0000-0003-1510-6820) [![Jekyll](https://img.shields.io/badge/Made%20with-Jekyll-1f425f.svg)](https://jekyllrb.com/)
