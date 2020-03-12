@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am a PRS in the DPhil in Politics programme in the [Department of Politics and International Relations](https://www.politics.ox.ac.uk/) and [St Hilda’s College](https://www.sthildas.ox.ac.uk/) at the [University of Oxford](http://www.ox.ac.uk/), United Kingdom. Furthermore, I am an Instructor in the Department of Public Administration and Policy at the Faculty of Economics and Management at the Universidad de Santiago, where I have been working since 2014.
+I am a Probationer Research Student (PRS) in the DPhil in Politics programme in the [Department of Politics and International Relations](https://www.politics.ox.ac.uk/) and [St Hilda’s College](https://www.sthildas.ox.ac.uk/) at the [University of Oxford](http://www.ox.ac.uk/), United Kingdom. Furthermore, I am an Instructor in the Department of Public Administration and Policy at the Faculty of Economics and Management at the Universidad de Santiago, where I have been working since 2014.
 
 ### Perhaps you were looking for one of these?
 
