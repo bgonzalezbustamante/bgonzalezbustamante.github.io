@@ -6,6 +6,7 @@ All notable changes to "Bastián González-Bustamante GitHub Page" will be docum
 ## [1.1.3] - 2020-04-06
 ### Changed
 - Corrections GitHub page.
+- Update of badges.
 
 ## [1.1.2] - 2020-04-03
 ### Changed
