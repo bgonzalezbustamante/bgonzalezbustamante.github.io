@@ -1,4 +1,4 @@
-### GitHub Page
+## GitHub Page
 
 [![version](https://img.shields.io/badge/version-v1.1.2-blue.svg)](https://github.com/bgonzalezbustamante/bgonzalezbustamante.github.io/blob/master/changelog.txt) [![lastrelease](https://img.shields.io/badge/latest%20release-April%202020-orange.svg)](https://bgonzalezbustamante.github.io/) [![Jekyll](https://img.shields.io/badge/Made%20with-Jekyll-1f425f.svg)](https://jekyllrb.com/)
 
