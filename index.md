@@ -9,7 +9,7 @@ I am a PRS in the DPhil in Politics programme in the [Department of Politics and
 ### Perhaps you were looking for one of these?
 
 - [My website at the University of Oxford](http://users.ox.ac.uk/~shil5311/) and its [code](https://github.com/bgonzalezbustamante/academic-kickstart)
-- [My latest CV-LaTeX](https://github.com/bgonzalezbustamante/CV-LaTeX)
+- [My latest CV-LaTeX](https://bgonzalezbustamante.github.io/CV-LaTeX/)
 - [Chilean Political Science Impact Ranking](http://users.ox.ac.uk/~shil5311/ranking/) and its [code](https://github.com/bgonzalezbustamante/CPS-Ranking)
 - [COVID-19 Pandemic in South America](https://bgonzalezbustamante.github.io/COVID-19-South-America/)
 - [My ongoing projects on OSF](https://osf.io/n62dh/)
