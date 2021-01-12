@@ -3,21 +3,25 @@ All notable changes to "Bastián González-Bustamante GitHub Page" will be docum
 
 ## [Released]
 
+## [1.1.7] - 2021-01-12
+### Changed
+- Minor corrections.
+
 ## [1.1.6] - 2020-12-21
 ### Changed
-- Corrections GitHub page.
+- Minor corrections.
 
 ## [1.1.5] - 2020-08-26
 ### Changed
-- Corrections GitHub page.
+- Minor corrections.
 
 ## [1.1.4] - 2020-08-05
 ### Changed
-- Corrections GitHub page.
+- Minor corrections.
 
 ## [1.1.3] - 2020-04-06
 ### Changed
-- Corrections GitHub page.
+- Minor corrections.
 - Update of badges.
 
 ## [1.1.2] - 2020-04-03
@@ -26,7 +30,7 @@ All notable changes to "Bastián González-Bustamante GitHub Page" will be docum
 
 ## [1.1.1] - 2020-03-24
 ### Changed
-- Corrections GitHub page.
+- Minor corrections.
 
 ## [1.1.0] - 2020-03-12
 ### Added
