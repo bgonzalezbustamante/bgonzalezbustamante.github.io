@@ -3,6 +3,10 @@ All notable changes to "Bastián González-Bustamante GitHub Page" will be docum
 
 ## [Released]
 
+## [1.1.10] - 2021-08-24
+### Changed
+- Minor corrections.
+
 ## [1.1.9] - 2021-08-18
 ### Changed
 - Revision of upgrade versioning.
