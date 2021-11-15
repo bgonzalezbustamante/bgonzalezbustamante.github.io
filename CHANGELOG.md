@@ -36,11 +36,10 @@ All notable changes to "Bastián González-Bustamante GitHub Page" will be docum
 ## [1.1.3] - 2020-04-06
 ### Changed
 - Minor corrections.
-- Update of badges.
 
 ## [1.1.2] - 2020-04-03
 ### Changed
-- Update of badges.
+- Minor corrections.
 
 ## [1.1.1] - 2020-03-24
 ### Changed
@@ -48,7 +47,7 @@ All notable changes to "Bastián González-Bustamante GitHub Page" will be docum
 
 ## [1.1.0] - 2020-03-12
 ### Added
-- Shields.io badges in SVG.
+- Badges in SVG on GiHub repository.
 
 ## [1.0.0] - 2020-03-11
 ### Added
