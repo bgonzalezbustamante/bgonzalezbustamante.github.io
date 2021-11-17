@@ -6,6 +6,8 @@ All notable changes to "Bastián González-Bustamante GitHub Page" will be docum
 ## [1.2.10] - 2021-11-17
 ### Added
 - Repository status badge.
+### Changed
+- Minor corrections.
 
 ## [1.1.10] - 2021-11-15
 ### Changed
