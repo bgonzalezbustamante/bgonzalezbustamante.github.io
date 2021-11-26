@@ -3,6 +3,10 @@ All notable changes to "Bastián González-Bustamante GitHub Page" will be docum
 
 ## [Released]
 
+## [1.3.10] - 2021-11-26
+### Added
+- Unlicense license on GitHub repository.
+
 ## [1.2.10] - 2021-11-17
 ### Added
 - Repository status badge.
