@@ -11,8 +11,8 @@ I am completing my DPhil (PhD) dissertation in the [Department of Politics and I
 - [My website](https://bgonzalezbustamante.com/) and the [code](https://github.com/bgonzalezbustamante/academic-kickstart)
 - [My latest CV in XeLaTeX](https://bgonzalezbustamante.github.io/CV-XeLaTeX/)
 - [My projects on OSF](https://osf.io/n62dh/)
-- [Chilean Political Science Impact Ranking](https://bgonzalezbustamante.com/cps-ranking/) and its [code](https://github.com/bgonzalezbustamante/CPS-Ranking)
 - [Training Data Lab](https://training-datalab.com/)
+- [Chilean Political Science Impact Ranking](https://bgonzalezbustamante.com/cps-ranking/) and the [code](https://github.com/bgonzalezbustamante/CPS-Ranking)
 - [Contributor Roles Taxonomy](https://bgonzalezbustamante.com/credit/)
 
 ### Contact
