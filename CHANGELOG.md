@@ -3,6 +3,10 @@ All notable changes to "Bastián González-Bustamante GitHub Page" will be docum
 
 ## [Released]
 
+## [1.4.11] - 2022-09-01
+### Changed
+- Minor corrections.
+
 ## [1.4.10] - 2022-04-27
 ### Added
 - MIT-0 license on GitHub repository.
